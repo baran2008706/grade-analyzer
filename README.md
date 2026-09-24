@@ -15,3 +15,6 @@ The program receives grades from the user and processes them using basic python 
 
 What I learned:
 Variables And Data Types - Lists - User Input - Loops - Functions - Basic Calculations
+
+Author:
+Baran, This project was created as part of my self-directed learning in python.
